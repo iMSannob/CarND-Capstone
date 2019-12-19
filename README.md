@@ -8,6 +8,7 @@ Hsin-Ying Chiu
 
 ## Project Highlights
 * Rewote styx server/bridge with C++ due to terrible performance and instability of original python codes. All ROS nodes can run at 50 Hz after rewriting the server.
+* Waypoint updater was coded in C++ too while I was struggling with server's performance issue.
 * Used [YOLO](https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection) for object detection.
 * Used LeNet for traffic light classification
 
