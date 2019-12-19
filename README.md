@@ -13,7 +13,7 @@ Hsin-Ying Chiu
 
 
 ## Project Recording
-Final results was updated to [Youtube](https://youtu.be/-xH5h-DeAN4)
+Final recording was uploaded to [Youtube](https://youtu.be/-xH5h-DeAN4)
 
 ## Furture Improvement
 The car always stops earlier than it was directed to.  It seems to be an issue in either DBW node or Waypont Updater node.       
