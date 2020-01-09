@@ -9,7 +9,6 @@ project(waypoint_updater)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   geometry_msgs
-  ecl_geometry
   roscpp
   rospy
   sensor_msgs
